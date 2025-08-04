@@ -29,6 +29,7 @@ body {
 .nav a {
   color: #fff;
   margin-left: 20px;
+  border: grey;
   text-decoration: none;
 }
 
